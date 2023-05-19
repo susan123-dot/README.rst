@@ -1,4 +1,0 @@
-Mero Lagani documentation
-=========================
-
-
